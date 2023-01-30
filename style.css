@@ -1,0 +1,4 @@
+div {width: 350px;
+    border: 1px solid #000;}
+div.b   {word-wrap: break-word}
+.b{color: blue !important;}
